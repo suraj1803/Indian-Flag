@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.flag {
+    background-color: red;
+    width: 100vw;
+    height: 100vh;
+}
+
+.saffron {
+    width: 100%;
+    height: 33.33%;
+    background-color: #F15B25;
+}
+
+.white {
+    width: 100%;
+    height: 33.33%;
+    background-color: white;
+}
+
+.green {
+    width: 100%;
+    height: 33.33%;
+    background-color: green;
+}
+
+.ashok-chakra {
+    width: 33.33vh;
+    height: 32.4vh;
+    border: 4px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.ashok-chakra div {
+    position: absolute;
+    top: 50%;
+    height: 2px;
+    width: 100%;
+    background-color: blue;
+}
+
+.line1 {
+    transform: rotate(15deg);
+}
+
+.line2 {
+    transform: rotate(30deg);
+}
+.line3 {
+    transform: rotate(45deg);
+}
+.line4 {
+    transform: rotate(60deg);
+}
+.line5 {
+    transform: rotate(75deg);
+}
+.line6 {
+    transform: rotate(90deg);
+}
+
+.line7 {
+    transform: rotate(105deg);
+}
+
+.line8 {
+    transform: rotate(120deg);
+}
+.line9 {
+    transform: rotate(135deg);
+}
+.line10 {
+    transform: rotate(150deg);
+}
+.line11 {
+    transform: rotate(165deg);
+}
+.line12 {
+    transform: rotate(180deg);
+}
